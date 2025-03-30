@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EetuMa
 - 👀 I’m interested in environmental engineering
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL, HTML/CSS and Javascript
 
 <!---
 EetuMa/EetuMa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
